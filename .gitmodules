@@ -1,0 +1,3 @@
+[submodule "autofix"]
+	path = autofix
+	url = https://github.com/Mher1337/autofix
